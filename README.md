@@ -1,2 +1,1 @@
-# Laptop-Project
-Laptop Recommendation System 
+# laptop-search-app
